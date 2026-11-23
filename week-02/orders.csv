@@ -1,0 +1,11 @@
+order_id,customer,product,quantity,price
+1001,Ava,Notebook,2,5.99
+1002,Ben,Pen,3,2
+1003,Cara,Folder,1,2.50
+1004,Dan,Mug,1,8.00
+1005,Eva,Planner,2,12.99
+1006,Finn,Ruler,4,1.25
+1007,Gia,Marker,2,not-a-price
+1008,Hugo,Tape,1,3.75
+1009,Iris,Stapler,1,6.50
+1010,Jay,Envelope,5,0.20

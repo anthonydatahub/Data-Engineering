@@ -25,3 +25,5 @@ print(f"Accepted Orders: {accepted_orders}")
 print(f"Total Accepted: {total_accepted}")
 print(f"Average Accepted: {average_accepted}")
 print(f"Number of Accepted Orders: {num_accepted}")
+
+
